@@ -2,7 +2,7 @@
 
 ## Data Sources
 
-Acid-nlu aggregates pre-existing datasets from other sources.  These original sources are adapted, modified, and potentially enhanced.  See below for information about the original sources including links to repositories, associated papers, citation information, and licenses.
+Acid-nlu aggregates pre-existing datasets from other sources. See below for information about the original sources including links to repositories, associated papers, citation information, and licenses.
 
 Note that sources here may not be integrated yet, or may be under analysis for licensing constraints.
 
@@ -35,6 +35,24 @@ Note that sources here may not be integrated yet, or may be under analysis for l
 ```
 
 
+## slug: snips-bench
+
+* repo: https://github.com/snipsco/nlu-benchmark
+* paper: https://arxiv.org/abs/1805.10190
+* license: CC0-1.0 (Creative Commons Zero v1.0 Universal)
+* citation:
+```
+@misc{coucke2018snips,
+    title={Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces},
+    author={Alice Coucke and Alaa Saade and Adrien Ball and Théodore Bluche and Alexandre Caulier and David Leroy and Clément Doumouro and Thibault Gisselbrecht and Francesco Caltagirone and Thibaut Lavril and Maël Primet and Joseph Dureau},
+    year={2018},
+    eprint={1805.10190},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
+
+
 ## slug: xliuhw-bench
 
 * repo: https://github.com/xliuhw/NLU-Evaluation-Data
@@ -57,29 +75,47 @@ Note that sources here may not be integrated yet, or may be under analysis for l
 ```
 
 
-## slug: snips-bench
+## slug: polyai-tsd-banking
 
-* repo: https://github.com/snipsco/nlu-benchmark
-* paper: https://arxiv.org/abs/1805.10190
-* license:  CC0-1.0 (Creative Commons Zero v1.0 Universal)
+* repo: https://github.com/PolyAI-LDN/task-specific-datasets
+* paper: https://arxiv.org/abs/2003.04807
+* license: CC BY-NC 4.0 (Attribution-NonCommercial 4.0 International)
 * citation:
 ```
-@misc{coucke2018snips,
-    title={Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces},
-    author={Alice Coucke and Alaa Saade and Adrien Ball and Théodore Bluche and Alexandre Caulier and David Leroy and Clément Doumouro and Thibault Gisselbrecht and Francesco Caltagirone and Thibaut Lavril and Maël Primet and Joseph Dureau},
-    year={2018},
-    eprint={1805.10190},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
+@inproceedings{Casanueva2020,
+    author      = {I{\~{n}}igo Casanueva and Tadas Temcinas and Daniela Gerz and Matthew Henderson and Ivan Vulic},
+    title       = {Efficient Intent Detection with Dual Sentence Encoders},
+    year        = {2020},
+    month       = {mar},
+    note        = {Data available at https://github.com/PolyAI-LDN/task-specific-datasets},
+    url         = {https://arxiv.org/abs/2003.04807},
+    booktitle   = {Arxiv},
 }
 ```
 
 
-## slug:
+## slug: polyai-tsd-span
+
+* repo: https://github.com/PolyAI-LDN/task-specific-datasets
+* paper: https://arxiv.org/abs/2005.08866
+* license: CC BY-NC 4.0 (Attribution-NonCommercial 4.0 International)
+* citation:
+```
+@inproceedings{CoopeFarghly2020,
+    Author      = {Sam Coope and Tyler Farghly and Daniela Gerz and Ivan Vulić and Matthew Henderson},
+    Title       = {Span-ConveRT: Few-shot Span Extraction for Dialog with Pretrained Conversational Representations},
+    Year        = {2020},
+    url         = {https://arxiv.org/abs/2005.08866},
+    booktitle   = {Arxiv},
+}
+```
+
+
+## slug: template
 
 * repo:
-* paper: 
-* license: 
+* paper:
+* license:
 * citation:
 ```
 ```
