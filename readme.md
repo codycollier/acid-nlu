@@ -17,7 +17,7 @@ There are several freely available datasets in this realm, but they are all stru
 
 ### original data sources
 
-Acid-nlu aggregates pre-existing datasets from other sources.  See the link below for information about the original sources including links to repositories, associated papers, citation information, and licenses.
+Acid-nlu aggregates pre-existing datasets from other sources.  See the link below for attribution and information about the original sources including links to repositories, associated papers, citation information, and licenses.
 
 * [original dataset sources](dataset-sources.md)
 
