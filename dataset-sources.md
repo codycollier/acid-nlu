@@ -35,47 +35,7 @@ Note that sources here may not be integrated yet, or may be under analysis for l
 ```
 
 
-## slug: snips-bench
-
-* repo: https://github.com/snipsco/nlu-benchmark
-* paper: https://arxiv.org/abs/1805.10190
-* license: CC0-1.0 (Creative Commons Zero v1.0 Universal)
-* citation:
-```
-@misc{coucke2018snips,
-    title={Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces},
-    author={Alice Coucke and Alaa Saade and Adrien Ball and Théodore Bluche and Alexandre Caulier and David Leroy and Clément Doumouro and Thibault Gisselbrecht and Francesco Caltagirone and Thibaut Lavril and Maël Primet and Joseph Dureau},
-    year={2018},
-    eprint={1805.10190},
-    archivePrefix={arXiv},
-    primaryClass={cs.CL}
-}
-```
-
-
-## slug: xliuhw-bench
-
-* repo: https://github.com/xliuhw/NLU-Evaluation-Data
-* paper: https://arxiv.org/abs/1903.05566
-* paper: https://iwsds2019.unikore.it/program/
-* license: CC BY-SA 3.0 (Creative Commons Attribution-ShareAlike 3.0 Unported)
-* citation:
-```
-@InProceedings{XLiu.etal:IWSDS2019,
-  author    = {Xingkun Liu, Arash Eshghi, Pawel Swietojanski and Verena Rieser},
-  title     = {Benchmarking Natural Language Understanding Services for building Conversational Agents},
-  booktitle = {Proceedings of the Tenth International Workshop on Spoken Dialogue Systems Technology (IWSDS)},
-  month     = {April},
-  year      = {2019},
-  address   = {Ortigia, Siracusa (SR), Italy},
-  publisher = {Springer},
-  pages     = {xxx--xxx},
-  url       = {http://www.xx.xx/xx/}
-}
-```
-
-
-## slug: polyai-tsd-banking
+## slug: polyai-tsd-banking77
 
 * repo: https://github.com/PolyAI-LDN/task-specific-datasets
 * paper: https://arxiv.org/abs/2003.04807
@@ -107,6 +67,70 @@ Note that sources here may not be integrated yet, or may be under analysis for l
     Year        = {2020},
     url         = {https://arxiv.org/abs/2005.08866},
     booktitle   = {Arxiv},
+}
+```
+
+
+## slug: sebis-eval-askubuntu, sebis-eval-chatbot, sebis-eval-webapps
+
+* repo: https://github.com/sebischair/NLU-Evaluation-Corpora
+* paper: https://www.sigdial.org/files/workshops/conference18/proceedings/pdf/SIGDIAL22.pdf
+* alias: ask ubuntu corpus, chatbot corpus, web applications corpus
+* license: CC BY-SA 3.0 (Creative Commons Attribution-ShareAlike 3.0 Unported)
+* citation:
+```
+@InProceedings{braun-EtAl:2017:SIGDIAL,
+  author    = {Braun, Daniel  and  Hernandez-Mendez, Adrian  and  Matthes, Florian  and  Langen, Manfred},
+  title     = {Evaluating Natural Language Understanding Services for Conversational Question Answering Systems},
+  booktitle = {Proceedings of the 18th Annual SIGdial Meeting on Discourse and Dialogue},
+  month     = {August},
+  year      = {2017},
+  address   = {Saarbrücken, Germany},
+  publisher = {Association for Computational Linguistics},
+  pages     = {174--185},
+  url       = {http://www.aclweb.org/anthology/W17-3622}
+}
+```
+
+
+
+## slug: snips-bench
+
+* repo: https://github.com/snipsco/nlu-benchmark
+* paper: https://arxiv.org/abs/1805.10190
+* license: CC0-1.0 (Creative Commons Zero v1.0 Universal)
+* citation:
+```
+@misc{coucke2018snips,
+    title={Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces},
+    author={Alice Coucke and Alaa Saade and Adrien Ball and Théodore Bluche and Alexandre Caulier and David Leroy and Clément Doumouro and Thibault Gisselbrecht and Francesco Caltagirone and Thibaut Lavril and Maël Primet and Joseph Dureau},
+    year={2018},
+    eprint={1805.10190},
+    archivePrefix={arXiv},
+    primaryClass={cs.CL}
+}
+```
+
+
+## slug: xliuhw-bench
+
+* repo: https://github.com/xliuhw/NLU-Evaluation-Data
+* paper: https://arxiv.org/abs/1903.05566
+* paper: https://iwsds2019.unikore.it/program/
+* alias: hwu64
+* license: CC BY-SA 3.0 (Creative Commons Attribution-ShareAlike 3.0 Unported)
+* citation:
+```
+@InProceedings{XLiu.etal:IWSDS2019,
+  author    = {Xingkun Liu, Arash Eshghi, Pawel Swietojanski and Verena Rieser},
+  title     = {Benchmarking Natural Language Understanding Services for building Conversational Agents},
+  booktitle = {Proceedings of the Tenth International Workshop on Spoken Dialogue Systems Technology (IWSDS)},
+  month     = {April},
+  year      = {2019},
+  address   = {Ortigia, Siracusa (SR), Italy},
+  publisher = {Springer},
+  pages     = {xxx--xxx},
+  url       = {http://www.xx.xx/xx/}
 }
 ```
 
