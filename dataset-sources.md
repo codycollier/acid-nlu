@@ -13,8 +13,7 @@ Note that sources here may not be integrated yet, or may be under analysis for l
 * paper: https://arxiv.org/abs/1909.02027
 * paper: https://www.aclweb.org/anthology/D19-1131/
 * license: CC BY 3.0 (Creative Commons Attribution 3.0 Unported)
-
-citation:
+* citation:
 ```
 @inproceedings{larson-etal-2019-evaluation,
     title = "An Evaluation Dataset for Intent Classification and Out-of-Scope Prediction",
@@ -42,8 +41,7 @@ citation:
 * paper: https://arxiv.org/abs/1903.05566
 * paper: https://iwsds2019.unikore.it/program/
 * license: CC BY-SA 3.0 (Creative Commons Attribution-ShareAlike 3.0 Unported)
-
-citation:
+* citation:
 ```
 @InProceedings{XLiu.etal:IWSDS2019,
   author    = {Xingkun Liu, Arash Eshghi, Pawel Swietojanski and Verena Rieser},
@@ -64,8 +62,7 @@ citation:
 * repo: https://github.com/snipsco/nlu-benchmark
 * paper: https://arxiv.org/abs/1805.10190
 * license:  CC0-1.0 (Creative Commons Zero v1.0 Universal)
-
-citation:
+* citation:
 ```
 @misc{coucke2018snips,
     title={Snips Voice Platform: an embedded Spoken Language Understanding system for private-by-design voice interfaces},
