@@ -2,8 +2,12 @@
 
 ## Data Sources
 
+Acid-nlu aggregates pre-existing datasets from other sources.  These original sources are adapted, modified, and potentially enhanced.  See below for information about the original sources including links to repositories, associated papers, citation information, and licenses.
 
-### slug: clinc150
+Note that sources here may not be integrated yet, or may be under analysis for licensing constraints.
+
+
+## slug: clinc150
 
 * repo: https://github.com/clinc/oos-eval
 * paper: https://arxiv.org/abs/1909.02027
@@ -32,7 +36,7 @@ citation:
 ```
 
 
-### slug: xliuhw-bench
+## slug: xliuhw-bench
 
 * repo: https://github.com/xliuhw/NLU-Evaluation-Data
 * paper: https://arxiv.org/abs/1903.05566
@@ -55,7 +59,7 @@ citation:
 ```
 
 
-### slug: snips-bench
+## slug: snips-bench
 
 * repo: https://github.com/snipsco/nlu-benchmark
 * paper: https://arxiv.org/abs/1805.10190
@@ -74,7 +78,7 @@ citation:
 ```
 
 
-### slug:
+## slug:
 
 * repo:
 * paper: 
