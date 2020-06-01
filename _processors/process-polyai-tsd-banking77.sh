@@ -30,3 +30,5 @@ cat ${original1} ${original2} | # ...
     sed 's/"," /, /g'         | # Don't quote commas inside of the utterance text
     sed "s/^/\"${slug}\",/g"  | # Add slug as col 1
     cat > ${processed}
+
+

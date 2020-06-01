@@ -24,3 +24,5 @@ cat ${original}                              | # ...
     sed 's/""//g'                            |  # Remove the inconsistent double double quotes
     sed "s/^/\"${slug}\",/g"                 |  # Add slug as col 1
     cat > ${processed}
+
+
