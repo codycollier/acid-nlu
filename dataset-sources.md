@@ -92,9 +92,6 @@ Acid-nlu aggregates pre-existing datasets from other sources. See below for info
 ```
 
 
-# Next / Under analysis
-
-
 ## slug: xliuhw-bench
 
 * repo: https://github.com/xliuhw/NLU-Evaluation-Data
@@ -117,15 +114,6 @@ Acid-nlu aggregates pre-existing datasets from other sources. See below for info
 }
 ```
 
-
-## slug: template
-
-* repo:
-* paper:
-* license:
-* citation:
-```
-```
 
 
 # Reviewed and excluded
@@ -150,4 +138,21 @@ This dataset is more dialog oriented and would take extra work to extract single
     booktitle   = {Arxiv},
 }
 ```
+
+
+
+# Next / Under analysis
+
+
+## slug: template
+
+* repo:
+* paper:
+* license:
+* citation:
+```
+```
+
+
+
 
