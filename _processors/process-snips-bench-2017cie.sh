@@ -32,7 +32,7 @@ for intent in $intents; do
     cat ${original}                                         | # ... 
         jq ".${intent}[][] | map(.text) | join(\"\")"       | # Grab and stitch together the question test
         sed "s/^/\"${slug}\",/g"                            | # Add slug as col 1
-        sed "s/$/,\"${intent}\",/g"                         | # Add intent as col 3
+        sed "s/$/,\"${intent}\"/g"                          | # Add intent as col 3
         cat >> ${processed}
 
 done
