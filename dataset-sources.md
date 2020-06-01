@@ -52,9 +52,6 @@ Acid-nlu aggregates pre-existing datasets from other sources. See below for info
 ```
 
 
-# Next / Under analysis
-
-
 ## slug: sebis-eval-askubuntu, sebis-eval-chatbot, sebis-eval-webapps
 
 * repo: https://github.com/sebischair/NLU-Evaluation-Corpora
@@ -76,6 +73,8 @@ Acid-nlu aggregates pre-existing datasets from other sources. See below for info
 }
 ```
 
+
+# Next / Under analysis
 
 
 ## slug: snips-bench
