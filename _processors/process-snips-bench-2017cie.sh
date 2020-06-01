@@ -17,6 +17,7 @@ processed="./2-processed/${slug}.csv"
 
 # List of intents
 intents="AddToPlaylist BookRestaurant GetWeather PlayMusic RateBook SearchCreativeWork SearchScreeningEvent"
+rm -f ${processed}
 
 for intent in $intents; do
 
