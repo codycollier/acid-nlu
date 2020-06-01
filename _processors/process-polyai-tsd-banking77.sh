@@ -22,6 +22,7 @@ curl -s -o "${original2}" -C - "https://raw.githubusercontent.com/PolyAI-LDN/tas
 
 # Process
 cat ${original1} ${original2} | # ...
+    grep -v "^text,category"  | # Remove the header
     sed 's///g'             | # Remove the windows newlines in this set
     sed 's/"//g'              | # Remove all the quotes in the text (inconsistent quoting)
     sed 's/^./"&/g'           | # Now re-add proper csv quoting
