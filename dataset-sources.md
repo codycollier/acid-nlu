@@ -4,8 +4,6 @@
 
 Acid-nlu aggregates pre-existing datasets from other sources. See below for information about the original sources including links to repositories, associated papers, citation information, and licenses.
 
-Note that sources here may not be integrated yet, or may be under analysis for licensing constraints.
-
 
 ## slug: clinc150
 
@@ -53,6 +51,8 @@ Note that sources here may not be integrated yet, or may be under analysis for l
 }
 ```
 
+
+# Next / Under analysis
 
 
 ## slug: sebis-eval-askubuntu, sebis-eval-chatbot, sebis-eval-webapps
