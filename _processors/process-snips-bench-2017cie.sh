@@ -6,6 +6,8 @@
 
 slug="snips-bench-2017cie"
 
+echo "Extracting: ${slug}..."
+
 cd $(dirname $0)
 
 # Make a workspace

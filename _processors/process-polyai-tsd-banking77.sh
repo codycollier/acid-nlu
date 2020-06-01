@@ -6,6 +6,8 @@
 
 slug="polyai-tsd-banking77"
 
+echo "Extracting: ${slug}..."
+
 cd $(dirname $0)
 
 # Make a workspace

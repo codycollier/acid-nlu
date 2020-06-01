@@ -6,6 +6,8 @@
 
 slug="sebis-eval-askubuntu"
 
+echo "Extracting: ${slug}..."
+
 cd $(dirname $0)
 
 # Make a workspace

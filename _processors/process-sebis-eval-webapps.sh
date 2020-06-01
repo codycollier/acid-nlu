@@ -6,6 +6,8 @@
 
 slug="sebis-eval-webapps"
 
+echo "Extracting: ${slug}..."
+
 cd $(dirname $0)
 
 # Make a workspace
