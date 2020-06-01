@@ -74,10 +74,7 @@ Acid-nlu aggregates pre-existing datasets from other sources. See below for info
 ```
 
 
-# Next / Under analysis
-
-
-## slug: snips-bench
+## slug: snips-bench-2017cie
 
 * repo: https://github.com/snipsco/nlu-benchmark
 * paper: https://arxiv.org/abs/1805.10190
@@ -93,6 +90,9 @@ Acid-nlu aggregates pre-existing datasets from other sources. See below for info
     primaryClass={cs.CL}
 }
 ```
+
+
+# Next / Under analysis
 
 
 ## slug: xliuhw-bench
