@@ -2,6 +2,8 @@
 
 A collection of intent datasets for natural language understanding
 
+* download: https://github.com/codycollier/acid-nlu/releases/download/v1.0.0/acid-nlu-v1.0.0.tgz
+* release: [v1.0.0](https://github.com/codycollier/acid-nlu/releases)
 * status: This is an alpha stage project
 * pace: The pace of progress is leisurely
 
@@ -17,14 +19,7 @@ There are several freely available datasets in this realm, but they are all stru
 
 ## The processed data
 
-The processed data is available in a single csv file just under 6MB in size.
-
-```
-$du -sh ./data/alldata.csv
-5.7M	./data/alldata.csv
-```
-
-See the following for some basic information about the processed dataset, including lists of intents and utterance counts:
+The processed data is available in a single csv file just under 6MB in size when uncompressed. See the following for basic information about the processed dataset, including lists of intents and utterance counts:
 
 * [dataset information](dataset-info.md)
 
