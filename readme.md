@@ -14,6 +14,9 @@ Intent classification is an area of machine learning and natural lanuage underst
 
 There are several freely available datasets in this realm, but they are all structured and organized differently.  The primary aim of this project is to aggregate and normalize the respective datasets, and provide a common interface for using them to build, train, and evaluate NLU / NLP models.
 
+See the following for some basic information about the processed dataset, including lists of intents and utterance counts:
+
+* [dataset information](dataset-info.md)
 
 ## Original data sources
 
