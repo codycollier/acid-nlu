@@ -4,6 +4,9 @@
 
 Acid-nlu aggregates pre-existing datasets from other sources. See below for information about the original sources including links to repositories, associated papers, citation information, and licenses.
 
+home: https://github.com/codycollier/acid-nlu
+
+
 
 ## slug: clinc150
 
